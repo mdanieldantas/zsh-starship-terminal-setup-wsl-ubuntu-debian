@@ -1,0 +1,15 @@
+# Estado local do projeto
+logs/
+snapshots/
+backups/
+
+# Arquivos temporários
+*.bak
+*.old
+*~
+.DS_Store
+Thumbs.db
+
+# Temporários do editor
+.vscode/
+.idea/
